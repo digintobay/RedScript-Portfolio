@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dd681c20970072b4da30a987a88d9978
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sliderPrefab: {fileID: 1487020659494398102, guid: 6ec77790e783789458e34d25cce0b5af, type: 3}
+  - anim: {instanceID: 0}
+  - SFXcollet: {fileID: 8300000, guid: 271e1c2792297a4409208bf088514897, type: 3}
+  - meshRenderer: {instanceID: 0}
+  - meshCollider: {instanceID: 0}
+  - parentObject: {instanceID: 0}
+  - playerAnim: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
